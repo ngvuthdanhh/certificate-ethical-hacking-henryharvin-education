@@ -8,4 +8,4 @@
 - **DoS/DDoS**: Denial of Service / Distributed Denial of Service attack to overwhelm resources.  
 - **SQL Injection**: Inserting malicious SQL queries to manipulate databases.  
 - **Sniffing**: Capturing and analyzing network traffic.  
-- **Session Hijacking**: Taking control of a valid user session.  
+- **Session Hijacking**: Taking control of a valid user session
